@@ -9,7 +9,7 @@
   <body>
 </head>
 <body>
-<form method="get">
+<form method="post">
   Nama : <input type="text" name="nama" value="" size="30"></br>
   Mata Kuliah :
   <select name="matkul">
